@@ -23,7 +23,10 @@ As a Limited Liability Partnership, we are committed to transparency, operationa
             </p>
           </div>
           <div>
-            <imageUrl: process.env.PUBLIC_URL + '/images/G01.png' alt="Team meeting" className="rounded-lg shadow-xl w-full object-cover" />
+            <div>
+                <img src={process.env.PUBLIC_URL + '/images/G01.png'} alt="Team meeting" className="rounded-lg shadow-xl w-full object-cover" />
+            </div>
+
           </div>
         </div>
         
