@@ -1,7 +1,7 @@
 import React from 'react';
 import SectionTitle from '../SectionTitle';
 import { CheckCircleIcon } from '../icons/Icons';
-
+import A01 from "../images/A01.png"
 const About: React.FC = () => {
   return (
     <div className="py-24 bg-white">
@@ -23,7 +23,7 @@ As a Limited Liability Partnership, we are committed to transparency, operationa
             </p>
           </div>
           <div>
-            <img src="images/A01.png" alt="Team meeting" className="rounded-lg shadow-xl w-full object-cover" />
+            <img src={A01} alt="Team meeting" className="rounded-lg shadow-xl w-full object-cover" />
           </div>
         </div>
         
