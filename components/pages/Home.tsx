@@ -16,7 +16,7 @@ const Home: React.FC<HomeProps> = ({ onNavigate }) => {
       {/* Hero Section */}
       <section className="relative h-[85vh] min-h-[500px] flex items-end h-100 pb-20 text-white">
         <div className="absolute inset-0 bg-black opacity-50"></div>
-        <img src="https://ik.imagekit.io/bkw071fzr/Screenshot%202025-07-03%20152818.png?updatedAt=1751536756514" alt="Exquisite marble architecture" className="absolute inset-0 w-full h-full object-cover"/>
+        <img src="https://github.com/nikitaadangi/Para_International/blob/main/images/001.png" alt="Exquisite marble architecture" className="absolute inset-0 w-full h-full object-cover"/>
         <div className="relative container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-tight tracking-tight"></h1>
           <p className="mt-4 text-lg md:text-xl max-w-3xl mx-auto text-stone-200"></p>
