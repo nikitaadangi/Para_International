@@ -56,7 +56,7 @@ const Home: React.FC<HomeProps> = ({ onNavigate }) => {
             </button>
           </div>
           <div className="relative h-96">
-            <img src="/Para_International/public/images/002.jpeg" alt="" className="absolute top-0 left-0 w-2/3 h-full object-cover rounded-lg shadow-xl"/>
+            <img src="public/images/002.jpeg" alt="" className="absolute top-0 left-0 w-2/3 h-full object-cover rounded-lg shadow-xl"/>
             <img src="/Para_International/public/images/003.jpeg" alt="" className="absolute bottom-0 right-0 w-1/2 h-2/3 object-cover rounded-lg shadow-xl border-8 border-[#FDFBF8]" />
           </div>
         </div>
