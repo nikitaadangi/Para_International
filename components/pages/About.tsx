@@ -24,7 +24,7 @@ As a Limited Liability Partnership, we are committed to transparency, operationa
           </div>
           <div>
             <div>
-                <img src="../public/images/A01.png" alt="image1"  onerror="src=placeholder-A01.png" className="rounded-lg shadow-xl w-full object-cover"  />
+                <img src="../public/images/A01.png" alt="image1"  onerror="src='placeholder-A01.png'" className="rounded-lg shadow-xl w-full object-cover"  />
             </div>
 
           </div>
