@@ -23,8 +23,15 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
 
+    /* React specific */
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "types": ["react", "react-dom"],
+
     "paths": {
-      "@/*" :  ["./*"]
+      "@/*": ["./*"]
     }
-  }
+  },
+  "include": ["src/**/*", "components/**/*", "*.ts", "*.tsx"],
+  "exclude": ["node_modules"]
 }

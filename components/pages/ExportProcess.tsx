@@ -22,7 +22,7 @@ const ExportProcess: React.FC = () => {
                 <div className="relative">
                   <div className="absolute -inset-2 bg-[#FDFBF8] rounded-lg transform -rotate-1"></div>
                   <img
-                    src={`https://picsum.photos/seed/process${index + 1}/600/400`}
+                    src={`/images/process${index + 1}.jpg`}
                     alt={step.title}
                     className="relative w-full h-64 object-cover rounded-lg shadow-lg"
                   />

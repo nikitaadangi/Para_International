@@ -7,44 +7,44 @@ export const PRODUCTS_DATA: Product[] = [
     id: 1,
     name: 'Elegant Marble Collection',
     category: 'Marble',
-    src="https://github.com/nikitaadangi/Para_International/blob/main/public/images/G01.png?raw=true",
+    imageUrl: '/images/G01.png',
     description: 'A refined blend of contemporary toned and classic charm for modern spaces.'
   },
   {
     id: 2,
     name: 'Earthy & Warm Marble Collection',
     category: 'Marble',
-    src="public/images/G02.png",
+    imageUrl: '/images/G02.png',
     description: 'Infused with natural texture and warm hues, perfect for timeless interiors.'
   },
   {
     id: 3,
     name: 'Premium Designer Marble',
     category: 'Marble',
-    src="public/images/G03.png",
+    imageUrl: '/images/G03.png',
     description: 'Bold aesthetics and statement patterns to elevate any architectural vision.'
   }
 ];
 
 export const GALLERY_IMAGES: GalleryImage[] = [
-  { id: 1, src:"public/images/G01.png", alt: '' },
-  { id: 2, src:'public/images/G02.png', alt: '' },
-  { id: 3, src:'public/images/G03.png', alt: '' },
-  { id: 4, src:'public/images/G04.png', alt: '' },
-  { id: 5, src:'public/images/G05.png', alt: '' },
-  { id: 6, src:'public/images/G06.png', alt: '' },
-  { id: 7, src:'public/images/G07.png', alt: '' },
-  { id: 8, src:'public/images/G08.png', alt: '' },
-  { id: 9, src:'public/images/G09.png', alt: '' },
-  { id: 10, src:'public/images/G10.png', alt: '' },
-  { id: 11, src:'public/images/G11.png', alt: '' },
-  { id: 12, src:'public/images/G12.png', alt: '' },
-  { id: 13, src:'public/images/G13.png', alt: '' },
-  { id: 14, src:'public/images/G14.png', alt: '' },
-  { id: 15, src:'public/images/G15.png', alt: '' },
-  { id: 16, src:'public/images/G16.png', alt: '' },
-  { id: 17, src:'public/images/G17.png', alt: '' },
-  { id: 18, src:'public/images/G18.png', alt: '' }
+  { id: 1, src: '/images/G01.png', alt: 'Elegant Marble Collection' },
+  { id: 2, src: '/images/G02.png', alt: 'Earthy & Warm Marble' },
+  { id: 3, src: '/images/G03.png', alt: 'Premium Designer Marble' },
+  { id: 4, src: '/images/G04.png', alt: 'Marble Sample 4' },
+  { id: 5, src: '/images/G05.png', alt: 'Marble Sample 5' },
+  { id: 6, src: '/images/G06.png', alt: 'Marble Sample 6' },
+  { id: 7, src: '/images/G07.png', alt: 'Marble Sample 7' },
+  { id: 8, src: '/images/G08.png', alt: 'Marble Sample 8' },
+  { id: 9, src: '/images/G09.png', alt: 'Marble Sample 9' },
+  { id: 10, src: '/images/G10.png', alt: 'Marble Sample 10' },
+  { id: 11, src: '/images/G11.png', alt: 'Marble Sample 11' },
+  { id: 12, src: '/images/G12.png', alt: 'Marble Sample 12' },
+  { id: 13, src: '/images/G13.png', alt: 'Marble Sample 13' },
+  { id: 14, src: '/images/G14.png', alt: 'Marble Sample 14' },
+  { id: 15, src: '/images/G15.png', alt: 'Marble Sample 15' },
+  { id: 16, src: '/images/G16.png', alt: 'Marble Sample 16' },
+  { id: 17, src: '/images/G17.png', alt: 'Marble Sample 17' },
+  { id: 18, src: '/images/G18.png', alt: 'Marble Sample 18' }
 ];
 
 export const TESTIMONIALS_DATA: Testimonial[] = [

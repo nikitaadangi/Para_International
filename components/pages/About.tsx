@@ -17,14 +17,14 @@ We offer a carefully selected range of marble varieties such as Makrana, Katni, 
 
             </p>
             <p className="leading-relaxed">
-              At PARA INTERNATIONAL LLP, we believe in maintaining professional standards, clear communication, and long-term partnerships. Whether you’re a buyer, contractor, designer, or distributor, we provide dependable solutions tailored to your specific needs.
+              At PARA INTERNATIONAL LLP, we believe in maintaining professional standards, clear communication, and long-term partnerships. Whether you're a buyer, contractor, designer, or distributor, we provide dependable solutions tailored to your specific needs.
 
 As a Limited Liability Partnership, we are committed to transparency, operational efficiency, and client satisfaction—ensuring a smooth and trustworthy business experience at every step.
             </p>
           </div>
           <div>
             <div>
-                <img src="../public/images/A01.png" alt="image1" className="rounded-lg shadow-xl w-full object-cover" />
+                <img src="/images/A01.png" alt="About Para International" className="rounded-lg shadow-xl w-full object-cover" />
             </div>
 
           </div>
