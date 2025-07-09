@@ -16,7 +16,7 @@ const Home: React.FC<HomeProps> = ({ onNavigate }) => {
       {/* Hero Section */}
       <section className="relative h-[85vh] min-h-[500px] flex items-end h-100 pb-20 text-white">
         <div className="absolute inset-0 bg-black opacity-50"></div>
-        <img src="/Para_International/images/001.png" alt="Exquisite marble architecture" className="absolute inset-0 w-full h-full object-cover"/>
+        <img src="images/001.png" alt="Exquisite marble architecture" className="absolute inset-0 w-full h-full object-cover"/>
         <div className="relative container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-tight tracking-tight"></h1>
           <p className="mt-4 text-lg md:text-xl max-w-3xl mx-auto text-stone-200"></p>
@@ -56,8 +56,8 @@ const Home: React.FC<HomeProps> = ({ onNavigate }) => {
             </button>
           </div>
           <div className="relative h-96">
-            <img src="/Para_International/images/002.jpeg" alt="Marble showcase" className="absolute top-0 left-0 w-2/3 h-full object-cover rounded-lg shadow-xl"/>
-            <img src="/Para_International/images/003.jpeg" alt="Marble detail" className="absolute bottom-0 right-0 w-1/2 h-2/3 object-cover rounded-lg shadow-xl border-8 border-[#FDFBF8]" />
+            <img src="images/002.jpeg" alt="Marble showcase" className="absolute top-0 left-0 w-2/3 h-full object-cover rounded-lg shadow-xl"/>
+            <img src="images/003.jpeg" alt="Marble detail" className="absolute bottom-0 right-0 w-1/2 h-2/3 object-cover rounded-lg shadow-xl border-8 border-[#FDFBF8]" />
           </div>
         </div>
       </section>
