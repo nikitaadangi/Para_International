@@ -24,7 +24,7 @@ As a Limited Liability Partnership, we are committed to transparency, operationa
           </div>
           <div>
             <div>
-                <img src="/images/A01.png" alt="About Para International" className="rounded-lg shadow-xl w-full object-cover" />
+                <img src="/Para_International/images/A01.png" alt="About Para International" className="rounded-lg shadow-xl w-full object-cover" />
             </div>
           </div>
         </div>

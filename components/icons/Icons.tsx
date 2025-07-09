@@ -11,7 +11,7 @@ export const LogoIcon: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <path d="M50 0C22.3858 0 0 22.3858 0 50C0 77.6142 22.3858 100 50 100C77.6142 100 100 77.6142 100 50C100 22.3858 77.6142 0 50 0Z" fill="currentColor"/>
 
   <image
-    href="/images/logo.jpg"
+    href="/Para_International/images/logo.jpg"
     x="0"
     y="0"
     width="100"
