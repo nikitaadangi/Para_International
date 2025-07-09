@@ -24,7 +24,7 @@ As a Limited Liability Partnership, we are committed to transparency, operationa
           </div>
           <div>
             <div>
-                <img src="/Para_International/images/A01.png" alt="Team meeting" className="rounded-lg shadow-xl w-full object-cover" />
+                <img src="https://github.com/nikitaadangi/Para_International/blob/main/public/images/A01.png?raw=true" alt="Team meeting" className="rounded-lg shadow-xl w-full object-cover" />
             </div>
 
           </div>
