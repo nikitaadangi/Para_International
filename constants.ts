@@ -7,7 +7,7 @@ export const PRODUCTS_DATA: Product[] = [
     id: 1,
     name: 'Elegant Marble Collection',
     category: 'Marble',
-    src="public/images/G01.png",
+    src="https://github.com/nikitaadangi/Para_International/blob/main/public/images/G01.png?raw=true",
     description: 'A refined blend of contemporary toned and classic charm for modern spaces.'
   },
   {
