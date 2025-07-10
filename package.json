@@ -1,6 +1,6 @@
 {
   "name": "para-international-website",
-  "homepage": "https://nikitaadangi.github.io/Para_International",
+  "homepage": "https://MUDITGUPTA08.github.io/Para_International",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +8,12 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+<<<<<<< HEAD
     "predeploy": "npm run build",
+=======
+    "copy-images": "xcopy /E /I /Y public\\images dist\\images",
+    "predeploy": "npm run build && npm run copy-images",
+>>>>>>> 252d7bcd838eca6376b26a1618019af7b8c9a69c
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
