@@ -8,12 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-<<<<<<< HEAD
-    "predeploy": "npm run build",
-=======
     "copy-images": "xcopy /E /I /Y public\\images dist\\images",
     "predeploy": "npm run build && npm run copy-images",
->>>>>>> 252d7bcd838eca6376b26a1618019af7b8c9a69c
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
@@ -24,7 +20,7 @@
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "@vitejs/plugin-react": "^4.2.1",
-    "gh-pages": "^6.3.0",
+    "gh-pages": "^6.1.1",
     "typescript": "^5.2.2",
     "vite": "^5.0.0"
   }
