@@ -25,6 +25,10 @@ const ExportProcess: React.FC = () => {
                     src={`/images/process${index + 1}.jpg`}
                     alt={step.title}
                     className="relative w-full h-64 object-cover rounded-lg shadow-lg"
+                    onError={(e) => {
+                      const target = e.target as HTMLImageElement;
+                      target.src = '/images/placeholder.jpg';
+                    }}
                   />
                 </div>
               </div>
